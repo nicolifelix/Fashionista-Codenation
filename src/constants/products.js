@@ -1,0 +1,12 @@
+/*
+ * Constantes / ActionTypes
+ */
+
+export const productsActionTypes = {
+  GET_PRODUCTS_REQUEST: 'GET_PRODUCTS_REQUEST',
+  SET_PRODUCT_DETAIL: 'SET_PRODUCT_DETAIL',
+  ADD_ITEM: 'ADD_ITEM',
+  TOGGLE_SEARCH: 'TOGGLE_SEARCH',
+  CLOSE_SEARCH: 'CLOSE_SEARCH',
+  SET_SIZE: 'SET_SIZE',
+};
